@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eliancostax.github.io/RickAndMortyApp/static/css/main.3723abfe.chunk.css",
+    "main.js": "/eliancostax.github.io/RickAndMortyApp/static/js/main.79daf5b4.chunk.js",
+    "main.js.map": "/eliancostax.github.io/RickAndMortyApp/static/js/main.79daf5b4.chunk.js.map",
+    "runtime-main.js": "/eliancostax.github.io/RickAndMortyApp/static/js/runtime-main.7347dbaf.js",
+    "runtime-main.js.map": "/eliancostax.github.io/RickAndMortyApp/static/js/runtime-main.7347dbaf.js.map",
+    "static/js/2.32b8fae1.chunk.js": "/eliancostax.github.io/RickAndMortyApp/static/js/2.32b8fae1.chunk.js",
+    "static/js/2.32b8fae1.chunk.js.map": "/eliancostax.github.io/RickAndMortyApp/static/js/2.32b8fae1.chunk.js.map",
+    "index.html": "/eliancostax.github.io/RickAndMortyApp/index.html",
+    "static/css/main.3723abfe.chunk.css.map": "/eliancostax.github.io/RickAndMortyApp/static/css/main.3723abfe.chunk.css.map",
+    "static/js/2.32b8fae1.chunk.js.LICENSE.txt": "/eliancostax.github.io/RickAndMortyApp/static/js/2.32b8fae1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7347dbaf.js",
+    "static/js/2.32b8fae1.chunk.js",
+    "static/css/main.3723abfe.chunk.css",
+    "static/js/main.79daf5b4.chunk.js"
+  ]
+}
